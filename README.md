@@ -2,7 +2,7 @@
 
 A up-to-date implementation of a Soft Decision Tree (SDT) based on PyTorch. "inv_temp", "hard_leaf_inference", "left-right balance regularization" and Visualization implemented.
 
-It includes example code for classification and visualization on the MNIST handwritten digits dataset. The code demonstrates how to load the dataset, initialize the model, train and save it, and visualize the decision process. Verified on PyTorch 2.3.
+It includes example code for classification and visualization on the MNIST handwritten digits dataset. Verified on PyTorch 2.3.
 
 Original paper: "Distilling a Neural Network Into a Soft Decision Tree" — https://arxiv.org/abs/1711.09784
 
