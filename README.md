@@ -6,10 +6,10 @@ It includes example code for classification and visualization on the MNIST handw
 
 Original paper: "Distilling a Neural Network Into a Soft Decision Tree" — https://arxiv.org/abs/1711.09784
 
-Chinese documentation and Notebooks are available in the `Chinese_Documentation/` folder.
-
 Soft Decision Tree illustration and decision process:
 ![SDT Example](./imgs/SDT.png)
+
+Chinese documentation and Notebooks are available in the `Chinese_Documentation/` folder.
 
 ## About the SDT module
 
