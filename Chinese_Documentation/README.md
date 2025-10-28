@@ -7,7 +7,7 @@
 原论文（"Distilling a Neural Network Into a Soft Decision Tree"）：https://arxiv.org/abs/1711.09784
 
 Soft Decision Tree例图和决策过程：
-![SDT Example](./imgs/SDT.png)
+![SDT Example](../imgs/SDT.png)
 
 ## 关于 Soft Decision Tree 模块
 
@@ -93,9 +93,9 @@ Notebook中设计了一个 visualize_sdt 函数，用于可视化SDT模型在某
 ---
 
 样例：
-![Heatmaps](./imgs/heatmaps.png)
+![Heatmaps](../imgs/heatmaps.png)
 
-![leaf_distributions](./imgs/leaf_distributions.png)
+![leaf_distributions](../imgs/leaf_distributions.png)
 
 
 ## 参考与致谢
